@@ -90,3 +90,6 @@ h3{
 .printarea{
   display: none;
 }
+.printarea p {
+  text-align: center;
+}
